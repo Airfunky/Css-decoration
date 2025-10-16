@@ -1,0 +1,36 @@
+body{background-color: grey;}
+
+.p1{
+    text-decoration-line: underline;
+}
+
+.p2{
+    text-decoration-line: overline;
+}
+
+.p3{ text-decoration-line: line-through;}
+
+.p4{text-decoration-color: red;
+text-decoration-line: underline;}
+
+.p5{text-decoration-line: line-through;
+    text-decoration-style: solid;}
+
+.p6{
+    text-decoration-line: underline; text-decoration-style: double;}
+
+.p7{text-decoration-style: dotted;  text-decoration-line: overline;}
+
+.p8{text-decoration-style: dashed;  text-decoration-line: underline;}
+
+.p9{text-decoration-thickness: auto; text-decoration-line: line-through; }
+
+.p10{text-decoration-line: underline;
+     text-decoration-thickness: 10px;}
+
+.p11{text-decoration-line: underline;
+     text-decoration-thickness: from-font;}
+
+.p12{text-decoration-line: underline;
+     text-decoration-thickness: 20%;}
+
